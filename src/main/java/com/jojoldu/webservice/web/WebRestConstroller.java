@@ -10,4 +10,7 @@ public class WebRestConstroller {
     public String hello() {
         return "HelloWorld";
     }
+
+
+    //버그수정로직이 추가됨
 }
