@@ -26,5 +26,5 @@ public class WebController {
         return postsService.save(dto);
     }
 
-    public;
+
 }
