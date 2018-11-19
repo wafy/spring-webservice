@@ -25,4 +25,6 @@ public class WebController {
     public Long savePosts(@RequestBody PostsSaveRequestDto dto) {
         return postsService.save(dto);
     }
+
+    public;
 }
