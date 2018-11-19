@@ -20,4 +20,4 @@ notifications:
     recipients:
     - wafy75@gmail.com
 
-sudo: enabled
+
